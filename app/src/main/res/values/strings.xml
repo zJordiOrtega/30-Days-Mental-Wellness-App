@@ -1,3 +1,124 @@
 <resources>
     <string name="app_name">30 Days</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    <string name="day1_title">Practice Meditation</string>
+    <string name="day1_description">Spend 10 minutes on a guided meditation to reduce stress and improve focus.</string>
+
+    <string name="day2_title">Keep a Gratitude Journal</string>
+    <string name="day2_description">Write down three things you are grateful for today.</string>
+
+    <string name="day3_title">Exercise</string>
+    <string name="day3_description">Engage in 30 minutes of physical exercise, such as walking, running, or doing yoga.</string>
+
+    <string name="day4_title">Disconnect from Technology</string>
+    <string name="day4_description">Spend one hour without electronic devices and focus on screen-free activities.</string>
+
+    <string name="day5_title">Practice Deep Breathing</string>
+    <string name="day5_description">Spend 5 minutes doing deep breathing exercises to relax.</string>
+
+    <string name="day6_title">Listen to Relaxing Music</string>
+    <string name="day6_description">Take time to listen to your favorite relaxing music.</string>
+
+    <string name="day7_title">Reach Out to a Friend or Family Member</string>
+    <string name="day7_description">Talk to a friend or family member you haven’t spoken to in a while.</string>
+
+    <string name="day8_title">Learn Something New</string>
+    <string name="day8_description">Read an interesting article or watch an educational video on a topic that interests you.</string>
+
+    <string name="day9_title">Practice Gratitude in Action</string>
+    <string name="day9_description">Do a kind deed for someone, such as helping a neighbor or donating to a charity.</string>
+
+    <string name="day10_title">Spend Time on a Hobby</string>
+    <string name="day10_description">Spend at least one hour enjoying your favorite hobby.</string>
+
+    <string name="day11_title">Take a Mindfulness Break</string>
+    <string name="day11_description">Spend 5 minutes being present and aware of your surroundings.</string>
+
+    <string name="day12_title">Write a Letter</string>
+    <string name="day12_description">Write a letter to yourself about your achievements and goals.</string>
+
+    <string name="day13_title">Spend Time in Nature</string>
+    <string name="day13_description">Visit a nearby park or natural area and enjoy the outdoors.</string>
+
+    <string name="day14_title">Practice Positive Visualization</string>
+    <string name="day14_description">Spend 10 minutes visualizing your goals and dreams positively.</string>
+
+    <string name="day15_title">Try a New Healthy Recipe</string>
+    <string name="day15_description">Cook a new recipe that is both nutritious and delicious.</string>
+
+    <string name="day16_title">Make a To-Do List</string>
+    <string name="day16_description">Organize your tasks and create a to-do list to feel more organized.</string>
+
+    <string name="day17_title">Spend Time Reading</string>
+    <string name="day17_description">Read a chapter of a book you enjoy.</string>
+
+    <string name="day18_title">Stretch</string>
+    <string name="day18_description">Spend 15 minutes doing gentle stretches to relax your body.</string>
+
+    <string name="day19_title">Listen to an Inspiring Podcast</string>
+    <string name="day19_description">Find and listen to a podcast that inspires and motivates you.</string>
+
+    <string name="day20_title">Express Gratitude to Others</string>
+    <string name="day20_description">Thank someone in your life for something they have done for you.</string>
+
+    <string name="day21_title">Spend Time Reflecting</string>
+    <string name="day21_description">Spend 10 minutes reflecting on your feelings and emotions.</string>
+
+    <string name="day22_title">Engage in a Creative Activity</string>
+    <string name="day22_description">Spend time on a creative activity, such as drawing, painting, or writing.</string>
+
+    <string name="day23_title">Take a Mindful Walk</string>
+    <string name="day23_description">Go for a walk and pay attention to each step and your surroundings.</string>
+
+    <string name="day24_title">Practice Self-Care</string>
+    <string name="day24_description">Spend time on a self-care activity, like taking a relaxing bath.</string>
+
+    <string name="day25_title">Develop a Positive Affirmation</string>
+    <string name="day25_description">Create a positive affirmation and repeat it throughout the day.</string>
+
+    <string name="day26_title">List Your Strengths</string>
+    <string name="day26_description">Write down a list of your strengths and talents.</string>
+
+    <string name="day27_title">Practice Patience</string>
+    <string name="day27_description">Find a moment to practice patience in your day.</string>
+
+    <string name="day28_title">Spend Time on Mindful Breathing</string>
+    <string name="day28_description">Spend 5 minutes focusing on your breath and how it feels.</string>
+
+    <string name="day29_title">Do Something That Makes You Laugh</string>
+    <string name="day29_description">Watch a funny movie, read jokes, or do anything that makes you laugh.</string>
+
+    <string name="day30_title">Reflect on Your Progress</string>
+    <string name="day30_description">Spend time reflecting on how you have felt during these 30 days and what changes you have noticed.</string>
 </resources>
